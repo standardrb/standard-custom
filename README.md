@@ -2,7 +2,7 @@
 
 This gem provides a [lint_roller](https://github.com/standardrb/lint_roller)
 plugin configuration for the
-[rubocop-custom](https://github.com/rubocop/rubocop-custom) ruleset.
+[standard-custom](https://github.com/standardrb/standard-custom/blob/main/config/base.yml) ruleset.
 It, along with
 [standard-performance](https://github.com/standardrb/standard-performance), is
 configured by default by the [Standard Ruby
