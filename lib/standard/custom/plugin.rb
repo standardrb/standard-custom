@@ -18,8 +18,6 @@ module Standard::Custom
     end
 
     def rules(context)
-      require_relative "../cop/block_single_line_braces"
-
       LintRoller::Rules.new(
         type: :path,
         config_format: :rubocop,
