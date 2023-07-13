@@ -5,7 +5,3 @@ gem "rake"
 gem "minitest"
 gem "standard"
 gem "m"
-
-group :test do
-  gem "rubocop", "~> 1.48.1"
-end

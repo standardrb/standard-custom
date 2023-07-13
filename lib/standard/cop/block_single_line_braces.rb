@@ -1,3 +1,5 @@
+require "rubocop"
+
 # Check for uses of braces around single line blocks, but allows either
 # braces or do/end for multi-line blocks.
 #
