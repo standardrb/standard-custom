@@ -1,6 +1,6 @@
-## [Unreleased]
+## [1.0.2]
 
-- Fix compatibility when used via rubocop
+- Fix compatibility when executed via the rubocop CLI and instead of Standard
   [569](https://github.com/standardrb/standard/issues/569)
 
 ## [1.0.1]
