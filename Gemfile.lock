@@ -54,7 +54,7 @@ GEM
       lint_roller (~> 1.1)
       rubocop-performance (~> 1.21.0)
     strscan (3.1.0)
-    unicode-display_width (2.5.0)
+    unicode-display_width (2.6.0)
 
 PLATFORMS
   arm64-darwin-22
