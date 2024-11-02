@@ -17,7 +17,7 @@ GEM
       rake (>= 0.9.2.2)
     method_source (1.1.0)
     minitest (5.25.1)
-    parallel (1.25.1)
+    parallel (1.26.3)
     parser (3.3.5.1)
       ast (~> 2.4.1)
       racc
